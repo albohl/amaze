@@ -1,3 +1,30 @@
-Testing
-asdjasdsa
-dsajdklajdla
+The program will need functions and shit
+
+datatype maze = WALL | OPEN | PATH
+
+generate (x, y, density)
+TYPE: int * int -> maze array array
+PRE: 
+POST: makes a labryinth x wide and y tall. First and last line have only one opening (start and finish). Last and first of any row must be a wall
+EXAMPLE: 
+
+holepuncher (length, holes)
+POST: makes holes amount of calls randomgenerator and returns a array length long with holes where ranomgenerator specifies
+
+randomgenerator (start, stop)
+TYPE: int * int ->
+POST: makes random numbers somehow
+
+labyprinter (array)
+TYPE: bool array array -> unit
+PRE:
+POST: unit
+SIDE-EFFECTS: prints the labyrinth
+
+solve (array)
+PRE:
+POST: Finds a solution to the labyrinth
+
+bestsolve (array)
+PRE:
+POST: Finds the best solution to the labyrinth
