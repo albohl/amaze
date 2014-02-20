@@ -1,0 +1,2 @@
+Thursday 2014-02-20
+Today we spent 2 hours thinking of what functions and datastructures we'd need and made a plan of approach and started the documentation
