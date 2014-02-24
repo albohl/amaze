@@ -1,2 +1,11 @@
 Thursday 2014-02-20
-Today we spent 2 hours thinking of what functions and datastructures we'd need and made a plan of approach and started the documentation
+Vi satt och funderade ut vilka funktioner och datastrukter vi skulle komma att behöva, gjorde en plan of approach och började med dokumentationen.
+~3 timmar arbete
+
+Fredag 2014-02-21
+Började på en linear conguence generator för att göra random nummer till vår maze-genererare.
+~2 timmar arbete
+
+Måndag 2014-02-24
+Gjorde klar linear conguence generator och började på labyrint generatorn
+~4 timmar arbete
